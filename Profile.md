@@ -1,8 +1,8 @@
 # Computing Laboratory
 
-##Assignment 1
+## Assignment 1
 
-### Profile
+### My Profile
 
 ```
 Name	Puruso Muhammad Hanunggul
